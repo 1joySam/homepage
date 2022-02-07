@@ -479,7 +479,7 @@ div#panel{
 	height:300px;
 	margin-left:0%;
 	margin-top:0px;
-	background-image:url('./images/40.jpg');
+	background-image: url('./images/40.jpg');
 	background-size:cover;
 	background-position:center;
 	text-align:;
